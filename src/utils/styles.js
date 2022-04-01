@@ -5,10 +5,10 @@ export const themes = {
   default: {
     name: 'Clair',
     colors: {
-      main: '#E01B0B',
-      mainLight: '#F6BFC3',
+      main: '#a9b400',
+      mainLight: '#9fb581',
       second: '#32337B',
-      secondLight: '#E5EDF5',
+      secondLight: '#14546c',
       background: '#ffffff',
       footer: '#F6F7F9',
       text: '#383838',
@@ -30,7 +30,7 @@ export const themes = {
   night: {
     name: 'Sombre',
     colors: {
-      main: '#F6BFC3',
+      main: '#9fb581',
       second: '#E5EDF5',
       secondLight: '#383838',
       background: '#1e1e1e',
